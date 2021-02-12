@@ -1,5 +1,5 @@
 {
-  "name": "unmarshal-decoder1",
+  "name": "unmarshal-decoder",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
